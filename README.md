@@ -15,7 +15,7 @@
 <div>
 <div role="progressbar" class="marquee"></div>
 <h2>try my Roblox GuI's</h2>ಥ‿ಥ
-   (https://github.com/GIH-LOL/GIH_LOL-roblox-gui)
+   <link>https://github.com/GIH-LOL/GIH_LOL-roblox-gui</link>
 </div>
 <div role="progressbar" class="marquee"></div>
 <div>
