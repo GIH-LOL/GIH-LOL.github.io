@@ -1,4 +1,10 @@
 # GIH StuFF o(╥﹏╥)
+<head><div class="title-bar">
+  <div class="title-bar-text">A Title Bar</div>
+  <div class="title-bar-controls">
+    <button aria-label="Close"></button>
+  </div>
+</div></head>
 <div class="window active" style="max-width: 100%; margin: 0 1.5em; --window-background-color: #805ba5;">
   <div class="title-bar">
     <div class="title-bar-text">A violet window frame</div>
@@ -25,7 +31,7 @@
 </div>
 <div role="progressbar" class="marquee"></div>
 
-<img src="https://cdn.discordapp.com/attachments/767055759389098034/1288712968002998282/pixil-gif-drawing.gif?ex=66f62efa&is=66f4dd7a&hm=ade4344695d653eb18f4f7333d7153859effeba6beb7fbe67f92d7aad3207e40&" alt="Avatar"></img>
+<img src="https://cdn.discordapp.com/attachments/767055759389098034/1288712968002998282/pixil-gif-drawing.gif?ex=66f62efa&is=66f4dd7a&hm=ade4344695d653eb18f4f7333d7153859effeba6beb7fbe67f92d7aad3207e40&" alt="Avatar"></
 </body>
 
 
