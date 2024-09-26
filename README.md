@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://cdn.discordapp.com/attachments/767055759389098034/1288723974179782697/abstract-blue-blue-background-cgi-wallpaper-preview.png?ex=66f6393a&is=66f4e7ba&hm=fa4763b120b16d0e9b1a6ac7d43f0024f33f763681edbd08f4b7fd2d2513bbbd&');
+  background-image: url('https://cdn.discordapp.com/attachments/767055759389098034/1288728226725888072/cool-frutiger-metro-wallpapers-i-found-on-deviantart-v0-lkg8vsf0a1bc1.png?ex=66f63d30&is=66f4ebb0&hm=6cd96fa39e25951ed6c156e961cd077500252f16b756fa9a5ef0fdffe06b5455&');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
