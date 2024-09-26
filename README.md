@@ -8,7 +8,7 @@
     </div>
   </div>
   <div class="window-body has-space">
-    <p>You can change the window color just as simple.</p>
+    <p>GIH StuFF o(╥﹏╥)</p>
   </div>
 </div>
 <link rel="stylesheet" href="https://unpkg.com/7.css">
