@@ -6,12 +6,13 @@ body {
   background-size: 100% 100%;
 }
 </style>
-
+<link rel="icon" type="image/png" href="/favicon.png"/>
+<link rel="icon" type="image/png" href="https://cdn.discordapp.com/attachments/767055759389098034/1288732332425084928/pixil-frame-0_1.png?ex=66f64103&is=66f4ef83&hm=7c7366a01ec6a94c9962fe45b72c9019fe839fab0e403db955cff53400d916d7&"/>
 
 <div class="background">
   <div class="window glass active" style="max-width: 100%; --window-background-color: #805ba5;">
     <div class="title-bar">
-      <div class="title-bar-text"><h1>GIH StuFF o(╥﹏╥)</h1></div>
+      <div class="title-bar-text">GIH StuFF o(╥﹏╥).exe</div>
       <div class="title-bar-controls">
         <button aria-label="Minimize"></button>
         <button aria-label="Close"></button>
@@ -24,13 +25,13 @@ body {
 <body>
 <div>
 <div role="progressbar" class="marquee"></div>
-<h2>try my Roblox GuI's</h2>ಥ‿ಥ
+<h3>try my Roblox GuI's</h3>ಥ‿ಥ
    https://github.com/GIH-LOL/GIH_LOL-roblox-gui
    <a href="https://github.com/GIH-LOL/GIH_LOL-roblox-gui" class="button"><button>Go to the roblox GuI</button></a>
 </div>
 <div role="progressbar" class="marquee"></div>
 <div>
-<h2>try the ugly ways game</h2>ಠ_ಠ	
+<h3>try the ugly ways game</h3>ಠ_ಠ	
    https://github.com/GIH-LOL/ugly-ways
    <a href="https://github.com/GIH-LOL/ugly-ways" class="button"><button>Go to Ugly Ways</button></a>
 </div>
