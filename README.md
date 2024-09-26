@@ -1,4 +1,16 @@
 # GIH StuFF o(╥﹏╥)
+<div class="window active" style="max-width: 100%; margin: 0 1.5em; --window-background-color: #805ba5;">
+  <div class="title-bar">
+    <div class="title-bar-text">A violet window frame</div>
+    <div class="title-bar-controls">
+      <button aria-label="Minimize"></button>
+      <button aria-label="Close"></button>
+    </div>
+  </div>
+  <div class="window-body has-space">
+    <p>You can change the window color just as simple.</p>
+  </div>
+</div>
 <link rel="stylesheet" href="https://unpkg.com/7.css">
 <body>
 <div>
