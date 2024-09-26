@@ -1,5 +1,14 @@
-<div class="window-body has-space">
-<b1># GIH StuFF o(╥﹏╥)</b1>
+<div class="background">
+  <div class="window glass active" style="max-width: 100%; --window-background-color: #805ba5;">
+    <div class="title-bar">
+      <div class="title-bar-text">A glass violet window frame</div>
+      <div class="title-bar-controls">
+        <button aria-label="Minimize"></button>
+        <button aria-label="Close"></button>
+      </div>
+    </div>
+    <div class="window-body has-space">
+# GIH StuFF o(╥﹏╥)
 </div>
 <link rel="stylesheet" href="https://unpkg.com/7.css">
 <body>
