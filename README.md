@@ -2,10 +2,11 @@
 <link rel="stylesheet" href="https://unpkg.com/7.css">
 <body>
 <div>
+<div role="progressbar" class="marquee"></div>
 <h2>try my Roblox GuI's</h2>ಥ‿ಥ
    (https://github.com/GIH-LOL/GIH_LOL-roblox-gui)
 </div>
-
+<div role="progressbar" class="marquee"></div>
 <div>
 <h2>try the ugly ways game</h2>ಠ_ಠ	
    (https://github.com/GIH-LOL/ugly-ways)
