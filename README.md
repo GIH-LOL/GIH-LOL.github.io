@@ -24,16 +24,18 @@ body {
 <link rel="stylesheet" href="https://unpkg.com/7.css">
 <body>
 <div>
-<div role="progressbar" class="marquee"></div>
+
 <h3>try my Roblox GuI's</h3>ಥ‿ಥ
-   https://github.com/GIH-LOL/GIH_LOL-roblox-gui
+   
    <a href="https://github.com/GIH-LOL/GIH_LOL-roblox-gui" class="button"><button>Go to the roblox GuI</button></a>
+
 </div>
 <div role="progressbar" class="marquee"></div>
 <div>
 <h3>try the ugly ways game</h3>ಠ_ಠ	
-   https://github.com/GIH-LOL/ugly-ways
+   
    <a href="https://github.com/GIH-LOL/ugly-ways" class="button"><button>Go to Ugly Ways</button></a>
+
 </div>
 <div role="progressbar" class="marquee"></div>
 
