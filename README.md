@@ -34,7 +34,7 @@ body {
 </div>
 <div role="progressbar" class="marquee"></div>
 
-<img src="https://cdn.discordapp.com/attachments/767055759389098034/1288712968002998282/pixil-gif-drawing.gif?ex=66f62efa&is=66f4dd7a&hm=ade4344695d653eb18f4f7333d7153859effeba6beb7fbe67f92d7aad3207e40&" alt="Avatar"></
+<img src="https://cdn.discordapp.com/attachments/767055759389098034/1288712968002998282/pixil-gif-drawing.gif?ex=66f62efa&is=66f4dd7a&hm=ade4344695d653eb18f4f7333d7153859effeba6beb7fbe67f92d7aad3207e40&" alt="Avatar"width="100" height="200">
 </body>
 
 
