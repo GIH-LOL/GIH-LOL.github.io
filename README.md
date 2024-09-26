@@ -51,7 +51,8 @@ body {
 </div>
 
 </body>
-
+  </div>
+   </div>
 <div>
 <div role="progressbar" class="marquee"></div>
 </div>
