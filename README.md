@@ -1,10 +1,5 @@
+<div class="window-body has-space">
 # GIH StuFF o(╥﹏╥)
-<head><div class="title-bar">
-  <div class="title-bar-text">A Title Bar</div>
-  <div class="title-bar-controls">
-    <button aria-label="Close"></button>
-  </div>
-</div></head>
 <div class="window active" style="max-width: 100%; margin: 0 1.5em; --window-background-color: #805ba5;">
   <div class="title-bar">
     <div class="title-bar-text">A violet window frame</div>
