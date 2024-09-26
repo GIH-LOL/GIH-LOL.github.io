@@ -11,7 +11,7 @@ body {
 <div class="background">
   <div class="window glass active" style="max-width: 100%; --window-background-color: #805ba5;">
     <div class="title-bar">
-      <div class="title-bar-text">GIH StuFF o(╥﹏╥)</div>
+      <div class="title-bar-text"><h1>GIH StuFF o(╥﹏╥)</h1></div>
       <div class="title-bar-controls">
         <button aria-label="Minimize"></button>
         <button aria-label="Close"></button>
@@ -25,13 +25,14 @@ body {
 <div>
 <div role="progressbar" class="marquee"></div>
 <h2>try my Roblox GuI's</h2>ಥ‿ಥ
-   <link>https://github.com/GIH-LOL/GIH_LOL-roblox-gui</link>
+   https://github.com/GIH-LOL/GIH_LOL-roblox-gui
    <a href="https://github.com/GIH-LOL/GIH_LOL-roblox-gui" class="button"><button>Go to the roblox GuI</button></a>
 </div>
 <div role="progressbar" class="marquee"></div>
 <div>
 <h2>try the ugly ways game</h2>ಠ_ಠ	
-   (https://github.com/GIH-LOL/ugly-ways)
+   https://github.com/GIH-LOL/ugly-ways
+   <a href="https://github.com/GIH-LOL/ugly-ways" class="button"><button>Go to Ugly Ways</button></a>
 </div>
 <div role="progressbar" class="marquee"></div>
 
