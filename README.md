@@ -8,7 +8,7 @@
     </div>
   </div>
   <div class="window-body has-space">
-    <p>GIH StuFF o(╥﹏╥)</p>
+    <p><b1>GIH StuFF o(╥﹏╥)</b1></p>
   </div>
 </div>
 <link rel="stylesheet" href="https://unpkg.com/7.css">
