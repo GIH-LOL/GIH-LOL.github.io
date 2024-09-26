@@ -26,6 +26,7 @@ body {
 <div role="progressbar" class="marquee"></div>
 <h2>try my Roblox GuI's</h2>ಥ‿ಥ
    <link>https://github.com/GIH-LOL/GIH_LOL-roblox-gui</link>
+   <a href="https://github.com/GIH-LOL/GIH_LOL-roblox-gui" class="button">Go to the roblox GuI</a>
 </div>
 <div role="progressbar" class="marquee"></div>
 <div>
