@@ -53,14 +53,17 @@ body {
 </body>
   </div>
    </div>
+    <div role="tooltip">Main page ᕕ( ᐛ )ᕗ.</div>
+
 <div>
 <div role="progressbar" class="marquee"></div>
 </div>
+  <div role="tooltip" class="is-top is-right">Cool Stuff ᕕ( ᐛ )ᕗ.</div
 
 <div class="background">
   <div class="window glass active" style="max-width: 100%; --window-background-color: #805ba5;">
     <div class="title-bar">
-      <div class="title-bar-text">GIH StuFF o(╥﹏╥).exe</div>
+      <div class="title-bar-text">CooL StuFF (っ◔◡◔)っ ♥.exe</div>
       <div class="title-bar-controls">
         <button aria-label="Minimize"></button>
         <button aria-label="Close"></button>
