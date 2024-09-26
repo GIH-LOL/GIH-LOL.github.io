@@ -44,9 +44,9 @@ body {
 
 <img src="https://cdn.discordapp.com/attachments/767055759389098034/1288712968002998282/pixil-gif-drawing.gif?ex=66f62efa&is=66f4dd7a&hm=ade4344695d653eb18f4f7333d7153859effeba6beb7fbe67f92d7aad3207e40&" width="100" height="200">
 
-<div style="position: fixed; z-index: -99; width: 100%; height: 100%">
-  <iframe frameborder="0" height="100%" width="100%" 
-    src="https://youtube.com/embed/b12dBv7EDjU?autoplay=1&controls=0&showinfo=0&autohide=1">
+<div style="position: fixed; z-index: -99; width: 50%; height: 50%">
+  <iframe frameborder="0" height="50%" width="50%" 
+    src="https://youtube.com/embed/b12dBv7EDjU?autoplay=1&controls=0&showinfo=0">
   </iframe>
 </div>
 
