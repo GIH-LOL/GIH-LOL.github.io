@@ -1,3 +1,10 @@
+</div>
+<link rel="stylesheet" href="https://unpkg.com/7.css">
+<body>
+<div>
+
+
+
 <style>
 body {
   background-image: url('https://cdn.discordapp.com/attachments/767055759389098034/1288728226725888072/cool-frutiger-metro-wallpapers-i-found-on-deviantart-v0-lkg8vsf0a1bc1.png?ex=66f63d30&is=66f4ebb0&hm=6cd96fa39e25951ed6c156e961cd077500252f16b756fa9a5ef0fdffe06b5455&');
@@ -20,10 +27,6 @@ body {
     </div>
     <div class="window-body has-space">
 
-</div>
-<link rel="stylesheet" href="https://unpkg.com/7.css">
-<body>
-<div>
 
 <h1>try my Roblox GuI's</h1>ಥ‿ಥ
    
@@ -40,6 +43,10 @@ body {
 <div role="progressbar" class="marquee"></div>
 
 <img src="https://cdn.discordapp.com/attachments/767055759389098034/1288712968002998282/pixil-gif-drawing.gif?ex=66f62efa&is=66f4dd7a&hm=ade4344695d653eb18f4f7333d7153859effeba6beb7fbe67f92d7aad3207e40&" width="100" height="200">
+
+<div class="player box"><div class="songName"><b>Song:</b> <span class="songTitle">HERE
+</span><a href="HERE"><img style="height: 15px; float: right; padding-right: 0px;" src="https://myspace.windows93.net/img/download.svg"/></a></div><audio controls="" src="HERE"></audio></div>
+
 </body>
 
 
