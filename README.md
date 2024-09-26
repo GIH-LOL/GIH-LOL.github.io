@@ -61,8 +61,8 @@ body {
 <div role="progressbar" class="marquee"></div>
 </div>
   <div role="tooltip" class="is-top is-right">Cool Stuff ᕕ( ᐛ )ᕗ.</div>
+   </div>
    
-
 <div class="background">
   <div class="window glass active" style="max-width: 100%; --window-background-color: #805ba5;">
     <div class="title-bar">
