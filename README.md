@@ -42,7 +42,7 @@ body {
 </div>
 <div role="progressbar" class="marquee"></div>
 
-<img src="https://i.imgur.com/RvpnyJg.gifv" width="100" height="200">
+<img src="https://i.imgur.com/RvpnyJg.gif" width="100" height="200">
 
 <!-- space -->
 
