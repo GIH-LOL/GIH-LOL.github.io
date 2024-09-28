@@ -14,7 +14,7 @@ body {
 }
 </style>
 <link rel="icon" type="image/png" href="/favicon.png"/>
-<link rel="icon" type="image/png" href="https://i.imgur.com/9YxmTXZ.png"/>
+<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/GIH-LOL/GIH-LOL.github.io/refs/heads/main/favicon%20(7).ico"/>
 
 <div class="background">
   <div class="window glass active" style="max-width: 100%; --window-background-color: #805ba5;">
