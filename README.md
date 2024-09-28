@@ -7,14 +7,14 @@
 
 <style>
 body {
-  background-image: url('https://imgur.com/a/8dnLsO1');
+  background-image: url('https://imgur.com/xqnYAMh');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
 }
 </style>
 <link rel="icon" type="image/png" href="/favicon.png"/>
-<link rel="icon" type="image/png" href="https://imgur.com/a/QmETrAm"/>
+<link rel="icon" type="image/png" href="https://imgur.com/9YxmTXZ"/>
 
 <div class="background">
   <div class="window glass active" style="max-width: 100%; --window-background-color: #805ba5;">
@@ -42,7 +42,7 @@ body {
 </div>
 <div role="progressbar" class="marquee"></div>
 
-<img src="https://imgur.com/a/xNqSbDk" width="100" height="200">
+<img src="https://imgur.com/RvpnyJg" width="100" height="200">
 
 <!-- space -->
 
